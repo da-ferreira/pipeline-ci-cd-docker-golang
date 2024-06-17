@@ -180,3 +180,4 @@ yarn-error.log*
 next-env.d.ts
 
 /postgres-data
+main.exe
