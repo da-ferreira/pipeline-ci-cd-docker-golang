@@ -8,7 +8,7 @@ on:
 
 jobs:
   test:
-    name: Test (go 1.20, ubuntu-latest)
+    name: Test
     runs-on: ubuntu-latest
     env: 
       HOST: localhost
